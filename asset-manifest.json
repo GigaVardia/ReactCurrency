@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactCurrency/static/css/main.81a2e4f5.chunk.css",
+    "main.js": "/ReactCurrency/static/js/main.6f66d8d9.chunk.js",
+    "main.js.map": "/ReactCurrency/static/js/main.6f66d8d9.chunk.js.map",
+    "runtime-main.js": "/ReactCurrency/static/js/runtime-main.b37ab2bf.js",
+    "runtime-main.js.map": "/ReactCurrency/static/js/runtime-main.b37ab2bf.js.map",
+    "static/css/2.fdc5f4bf.chunk.css": "/ReactCurrency/static/css/2.fdc5f4bf.chunk.css",
+    "static/js/2.c8067458.chunk.js": "/ReactCurrency/static/js/2.c8067458.chunk.js",
+    "static/js/2.c8067458.chunk.js.map": "/ReactCurrency/static/js/2.c8067458.chunk.js.map",
+    "index.html": "/ReactCurrency/index.html",
+    "static/css/2.fdc5f4bf.chunk.css.map": "/ReactCurrency/static/css/2.fdc5f4bf.chunk.css.map",
+    "static/css/main.81a2e4f5.chunk.css.map": "/ReactCurrency/static/css/main.81a2e4f5.chunk.css.map",
+    "static/js/2.c8067458.chunk.js.LICENSE.txt": "/ReactCurrency/static/js/2.c8067458.chunk.js.LICENSE.txt",
+    "static/media/bpg-nino-elite-exp-caps.min.css": "/ReactCurrency/static/media/bpg-nino-elite-exp-caps-webfont.fe11e789.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b37ab2bf.js",
+    "static/css/2.fdc5f4bf.chunk.css",
+    "static/js/2.c8067458.chunk.js",
+    "static/css/main.81a2e4f5.chunk.css",
+    "static/js/main.6f66d8d9.chunk.js"
+  ]
+}
